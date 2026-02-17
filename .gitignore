@@ -1,0 +1,30 @@
+# --- Virtual Environments ---
+# Ignore the environment folder
+env/
+venv/
+.venv/
+ENV/
+bin/
+lib/
+include/
+
+# --- Streamlit ---
+# Ignore Streamlit's local config and credentials
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# --- Secrets & Environment Variables ---
+# IMPORTANT: Never commit your secrets
+.env
+.flaskenv
+secrets.toml
