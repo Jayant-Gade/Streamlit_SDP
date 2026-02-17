@@ -3,3 +3,6 @@
  langchain-community 
  langchain-core 
  ollama
+ numpy
+ matplotlib
+ pandas
