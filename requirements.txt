@@ -17,3 +17,5 @@
  streamlit 
  nltk 
  Langchain-ollama 
+ bs4
+ jq
