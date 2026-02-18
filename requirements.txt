@@ -6,3 +6,14 @@
  numpy
  matplotlib
  pandas
+ python-dotenv 
+ ipykernel 
+ pypdf 
+ longchain-text-splitters 
+ sentence_transformers 
+ langchain_huggingface 
+ faiss-cpu 
+ langchain-openal 
+ streamlit 
+ nltk 
+ Langchain-ollama 

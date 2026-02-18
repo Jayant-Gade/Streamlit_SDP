@@ -28,3 +28,4 @@ if input_text:
     with st.spinner("Thinking..."):
         response = chain.invoke({"question": input_text})
         st.write(response)
+
